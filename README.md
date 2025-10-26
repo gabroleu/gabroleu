@@ -1,4 +1,4 @@
-# 👩🏻‍💻 LGabriel Chaves
+# 👨‍💻 Gabriel Chaves
 
 **`Desenvolvedor Front-end`**
 

@@ -2,8 +2,8 @@
 
 **`Desenvolvedor Front-end`**
 
-Me chamo Gabriel Chaves, atualmente estou fazendo estágio no Instituto Nacional de Pesquisas da Amazônia - INPA (Órgão do Ministério da Ciência, Tecnologia e Inovação - MCTI)
-Estou aprimorando meus conhecimentos em frontend, focado em Javascript. Gosto muito de desafios então estou diponível para colaborar em projetos.
+Me chamo Gabriel Chaves, atualmente estou fazendo estágio no Instituto Nacional de Pesquisas da Amazônia - INPA (Órgão do Ministério da Ciência, Tecnologia e Inovação - MCTI).
+Estou aprimorando meus conhecimentos em frontend, focado em Javascript. Gosto muito de desafios então estou diponível para colaborar em projetos e/ou ser contratado.
 
 Você pode entrar em contato comigo através do e-mail: rgabrielcs@gmail.com
 

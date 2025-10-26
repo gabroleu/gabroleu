@@ -1,10 +1,3 @@
-## Olá 👋 Eu sou o Gabriel Chaves
-
-- 🔭 Atualmente estou fazendo estágio no Instituto Nacional de Pesquisas da Amazônia - INPA (Órgão do Ministério da Ciência, Tecnologia e Inovação - MCTI) 
-- 🌱 Atualmente estou aprimorando meus conhecimentos em front-end (focado em Javascript)
-- 💬 Estou disponível para colaborar em projetos  
-- 📫 How to reach me: rgabrielcs@gmail.com
-
 # 👩🏻‍💻 LGabriel Chaves
 
 **`Desenvolvedor Front-end`**

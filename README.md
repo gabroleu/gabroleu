@@ -2,9 +2,9 @@
 
 **`Desenvolvedor Front-end`**
 
-Me chamo Gabriel Chaves, atualmente estou fazendo estágio no Ministério da Ciência, Tecnologia e Inovação - MCTI.
+Me chamo Gabriel Chaves, estou formando em Engenharia de Software e atualmente estou fazendo estágio no Ministério da Ciência, Tecnologia e Inovação - MCTI.
 
-Estou aprimorando meus conhecimentos em frontend, focado em Javascript. Gosto muito de desafios e estou disponível para colaborar em projetos e/ou para contratação.
+Estou aprimorando meus conhecimentos em frontend, focado em Javascript/Typescript. Gosto muito de desafios e estou disponível para colaborar em projetos e/ou para contratação.
 
 Você pode entrar em contato comigo através do e-mail: rgabrielcs@gmail.com
 

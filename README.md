@@ -2,9 +2,13 @@
 
 **`Desenvolvedor Front-end`**
 
-Me chamo Gabriel Chaves, estou formando em Engenharia de Software e atualmente estou fazendo estágio no Ministério da Ciência, Tecnologia e Inovação - MCTI.
+Me chamo Gabriel Chaves, sou graduando em Engenharia de Software e atualmente atuo como estagiário no Ministério da Ciência, Tecnologia e Inovação (MCTI).
 
-Estou aprimorando meus conhecimentos em frontend, focado em Javascript/Typescript. Gosto muito de desafios e estou disponível para colaborar em projetos e/ou para contratação.
+Estou focado no desenvolvimento backend com Node.js e TypeScript, estruturando APIs REST escaláveis, aplicando boas práticas de arquitetura e organização de código. Tenho trabalhado com modelagem de banco de dados e ORM como Prisma, além de conceitos de autenticação, validação de dados, middlewares e separação de responsabilidades.
+
+Também possuo experiência em frontend com JavaScript/TypeScript, o que me permite compreender o fluxo completo da aplicação (do cliente ao servidor).
+
+Busco evoluir constantemente em arquitetura de software, performance e padrões como SOLID e Clean Architecture. Aberto a colaborar em projetos e oportunidades que envolvam backend e engenharia de software.
 
 Você pode entrar em contato comigo através do e-mail: rgabrielcs@gmail.com
 

@@ -8,7 +8,8 @@ Estou focado no desenvolvimento backend com Node.js e TypeScript, estruturando A
 
 Também possuo experiência em frontend com JavaScript/TypeScript, o que me permite compreender o fluxo completo da aplicação (do cliente ao servidor).
 
-Busco evoluir constantemente em arquitetura de software, performance e padrões como SOLID e Clean Architecture. Aberto a colaborar em projetos e oportunidades que envolvam backend e engenharia de software.
+Busco evoluir constantemente em arquitetura de software, performance e padrões como SOLID e Clean Architecture.
+Aberto a colaborar em projetos e oportunidades que envolvam backend e engenharia de software.
 
 Você pode entrar em contato comigo através do e-mail: rgabrielcs@gmail.com
 

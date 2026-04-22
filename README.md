@@ -1,6 +1,6 @@
 # 👨‍💻 Gabriel Chaves
 
-**`Desenvolvedor Front-end`**
+**`Desenvolvedor Full-Stack`**
 
 Me chamo Gabriel Chaves, sou finalista em Engenharia de Software e atualmente atuo como estagiário no Ministério da Ciência, Tecnologia e Inovação (MCTI).
 

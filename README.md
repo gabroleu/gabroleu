@@ -25,8 +25,6 @@ Principais Tecnologias
 
 E-mail: rgabrielcs@gmail.com
 
-### 🤖 Linguagens e Tecnologias
-
 <img 
     align="left" 
     alt="HTML"

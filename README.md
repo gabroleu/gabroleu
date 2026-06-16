@@ -2,7 +2,7 @@
 
 Software Engineer | Backend-Focused Full-Stack Developer
 
-Sou Engenheiro de Software formado, com foco no desenvolvimento de aplicações web modernas e escaláveis.
+Sou Engenheiro de Software, com foco no desenvolvimento de aplicações web modernas e escaláveis.
 
 Atuo principalmente no ecossistema Node.js e TypeScript, desenvolvendo APIs REST, sistemas de gestão, plataformas web e soluções voltadas para problemas reais. Tenho experiência com arquitetura backend, modelagem de banco de dados, Prisma ORM, autenticação, validação de dados, integração de serviços e boas práticas de desenvolvimento.
 

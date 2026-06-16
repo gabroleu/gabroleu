@@ -1,17 +1,29 @@
-# 👨‍💻 Gabriel Chaves
+👨🏽‍💻 Gabriel Chaves
 
-**`Desenvolvedor Full-Stack`**
+Software Engineer | Backend-Focused Full-Stack Developer
 
-Me chamo Gabriel Chaves, finalista em Engenharia de Software e atualmente atuo como estagiário no Ministério da Ciência, Tecnologia e Inovação (MCTI).
+Sou Engenheiro de Software formado, com foco no desenvolvimento de aplicações web modernas e escaláveis.
 
-Estou focado no desenvolvimento backend com Node.js e TypeScript, estruturando APIs REST escaláveis, aplicando boas práticas de arquitetura e organização de código. Tenho trabalhado com modelagem de banco de dados e ORM como Prisma, além de conceitos de autenticação, validação de dados, middlewares e separação de responsabilidades.
+Atuo principalmente no ecossistema Node.js e TypeScript, desenvolvendo APIs REST, sistemas de gestão, plataformas web e soluções voltadas para problemas reais. Tenho experiência com arquitetura backend, modelagem de banco de dados, Prisma ORM, autenticação, validação de dados, integração de serviços e boas práticas de desenvolvimento.
 
-Também possuo experiência em frontend com JavaScript/TypeScript, o que me permite compreender o fluxo completo da aplicação (do cliente ao servidor).
+No frontend, trabalho com React, TypeScript e Tailwind CSS, o que me permite participar de todo o ciclo de desenvolvimento, desde a concepção da interface até a implementação da lógica de negócio e infraestrutura da aplicação.
 
-Busco evoluir constantemente em arquitetura de software, performance e padrões como SOLID e Clean Architecture.
-Aberto a colaborar em projetos e oportunidades que envolvam backend e engenharia de software.
+Atualmente desenvolvo projetos próprios e soluções full-stack, buscando constantemente evolução em arquitetura de software, escalabilidade, performance e experiência do usuário.
 
-Você pode entrar em contato comigo através do e-mail: rgabrielcs@gmail.com
+Principais Tecnologias
+
+* Node.js
+* TypeScript
+* React
+* Prisma ORM
+* PostgreSQL
+* Tailwind CSS
+* JavaScript
+* Git & GitHub
+
+📫 Contato
+
+E-mail: rgabrielcs@gmail.com
 
 ### 🤖 Linguagens e Tecnologias
 

@@ -26,7 +26,8 @@ Principais Tecnologias
 E-mail: rgabrielcs@gmail.com
 
 Portfólio
-chavesgabriel.vercel.app
+
+https://chavesgabriel.vercel.app/
 
 <img 
     align="left" 

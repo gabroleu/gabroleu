@@ -29,7 +29,7 @@ LinkedIn: http://linkedin.com/in/robertogabriel
 
 Portfólio
 
-https://chavesgabriel.vercel.app/
+👨🏽‍💻 https://chavesgabriel.vercel.app/
 
 <img 
     align="left" 

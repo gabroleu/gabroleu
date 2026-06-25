@@ -27,9 +27,7 @@ E-mail: rgabrielcs@gmail.com
 
 LinkedIn: http://linkedin.com/in/robertogabriel
 
-Portfólio
-
-👨🏽‍💻 https://chavesgabriel.vercel.app/
+Portfólio: https://chavesgabriel.vercel.app/
 
 <img 
     align="left" 
